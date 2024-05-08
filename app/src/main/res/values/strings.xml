@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PokemonApp</string>
+    <string name="hp">HP:</string>
+    <string name="attack">Attack:</string>
+    <string name="abilities">Abilities:</string>
+    <string name="defense">Defense:</string>
+    <string name="speed">Speed:</string>
+    <string name="special_attack">Special attack:</string>
+    <string name="special_defense">Special defense:</string>
+    <string name="weight">Weight:</string>
+    <string name="height">Height:</string>
+</resources>
